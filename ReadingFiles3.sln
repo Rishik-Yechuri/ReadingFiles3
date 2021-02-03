@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReadingFiles3", "ReadingFiles3\ReadingFiles3\ReadingFiles3.csproj", "{4C3A552C-F455-4FCC-A399-76DA71E910E5}"
+EndProject
+Project("{96E2B04D-8817-42C6-938A-82C39BA4D311}") = "ReadingFiles3Content", "ReadingFiles3\ReadingFiles3Content\ReadingFiles3Content.contentproj", "{FB911D17-AF2D-440E-B98E-3342C1B86B8C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4C3A552C-F455-4FCC-A399-76DA71E910E5}.Debug|x86.ActiveCfg = Debug|x86
+		{4C3A552C-F455-4FCC-A399-76DA71E910E5}.Debug|x86.Build.0 = Debug|x86
+		{4C3A552C-F455-4FCC-A399-76DA71E910E5}.Release|x86.ActiveCfg = Release|x86
+		{4C3A552C-F455-4FCC-A399-76DA71E910E5}.Release|x86.Build.0 = Release|x86
+		{FB911D17-AF2D-440E-B98E-3342C1B86B8C}.Debug|x86.ActiveCfg = Debug|x86
+		{FB911D17-AF2D-440E-B98E-3342C1B86B8C}.Release|x86.ActiveCfg = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
